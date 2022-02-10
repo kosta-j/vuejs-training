@@ -49,6 +49,7 @@ export default {
   position: relative;
   max-width: 300px;
   padding: 0 15px;
+  margin-bottom: 30px;
 
   &__inner {
     position: relative;
